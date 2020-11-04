@@ -12,6 +12,7 @@
     "lib",
     "AUTHORS",
     "VERSION",
+    "bundle",
     "docs/API.md",
     "docs/LIBRARY.md",
     "docs/LICENSE*",
